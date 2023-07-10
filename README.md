@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HyvjlU00Ad4xq/giphy.gif" width="200" />
   <h1 align="center">I'm Gerardo 👨‍💻</h1>
-  <h3 align="center">I am a passionate programmer, my focus is on the branch of cybersecurity in python and C++, in addition to the use of the kali linux operating system.</h3>
+  <h3 align="center"></h3>
  </div>
  <div aligh="left">
   <h3>📌 Languages and Tools</h3>  
